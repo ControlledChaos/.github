@@ -1,2 +1,1 @@
-# .github
-GitHub profile for Controlled Chaos Design.
+# Controlled Chaos Design
