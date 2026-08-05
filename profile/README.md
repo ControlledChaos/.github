@@ -1,3 +1,5 @@
-<link rel="stylesheet" href="assets/css/style.min.css">
+# CCDzine Website Design & Development
 
-<h2>CCDzine Website Design & Development</h2>
+This is my corner of the internet for storing code.
+
+See [my website](https://controlledchaos.github.io/) for selected code, plus a blog.
